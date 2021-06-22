@@ -106,7 +106,7 @@ Pilha *pilhaFloat;
 pilhaFloat = init();
 int numero;
 int num=0;
-for(int i=1; i<=5; i++){
+for(int i=1; i<=30; i++){
 cout<<"Digite o "<<i<<"º valor: ";
 cin>>numero;
 if (numero>num){
